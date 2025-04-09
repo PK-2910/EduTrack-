@@ -1,4 +1,4 @@
-'''python
+
 # feedback_entry.py
 
 def collect_feedback():
